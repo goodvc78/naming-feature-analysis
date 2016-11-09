@@ -7,7 +7,8 @@ Java 소스코드의 네이밍 패턴을 추출하여 어떤 규칙이 있는지
 ### 구성 
 #### 소스코드에서 클래스, 함수, 변수 네이밍 추출 및 네이밍 데이터 셋 생성  
 01. extract-naming-words-in-java-source.ipynb
-<br> 결과 데이터셋 파일이 ./resource/*.pkl로 생성됨
+결과 데이터셋 파일이 ./resource/ 폴더에 .pkl로 생성됨
+
 #### 생성된 네이밍 데이터셋 탐색 
 02. naming-dataset-analysis.ipynb 
 
